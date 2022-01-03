@@ -294,7 +294,7 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 
 ### 3 - Adicione uma moldura no container. A moldura deve ter 1 pixel de largura, deve ser preta e do tipo 'solid'. A área onde a imagem aparecerá deve ter fundo branco.
 
-- O elemento que serve de container para a imagem deve ter o a cor de fundo branca;
+- O elemento que serve de container para a imagem deve ter a cor de fundo branca;
 
 - O elemento que serve de container para a imagem deve ter uma borda preta, sólida, com 1 pixel de largura;
 
