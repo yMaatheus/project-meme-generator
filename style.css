@@ -19,3 +19,20 @@
   font-size: 30px;
   text-shadow: 5px 5px 5px black;
 }
+
+#fire {
+  background-color: red;
+}
+
+#water {
+  background-color: blue;
+}
+
+#earth {
+  background-color: green;
+}
+
+.meme {
+  width: 125px;
+  height: 150px;
+}
